@@ -11,7 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Crypto In, \nMore Crypto Out!
+    title: Crypto In,\
+    More Crypto Out!
     text: Start Earning Today
     button: Get Started
     buttonlink: https://app.haruinvest.com/signup?r=hodl
