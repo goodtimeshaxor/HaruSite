@@ -18,10 +18,10 @@ url    : "https://goodtimeshaxor.github.io" # the base hostname & protocol for y
 baseurl: "/HaruSite" # the subpath of your site, e.g. /blog
 destination: docs/
 
-title      : Agency Jekyll Theme Demo
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
-author     : Your Name
+title      : Haru Invest
+email      :  #this is also the email contact forms will go to
+description: "Earn interest on crypto with Haru Invest. Rates info, updates, and news about Haru Invest. Use promo code HODL"
+author     : 
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
