@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   info:
     title: "Rates"
-    text: {% include earnrates.html %}
+    text: ""
     section: info
     list:
       - title: "E-Commerce"
