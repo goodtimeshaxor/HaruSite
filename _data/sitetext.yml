@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Crypto In, \nMore Crypto Out!
+    text: Start Earning Today
+    button: Get Started
+    buttonlink: https://app.haruinvest.com/signup?r=hodl
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+  info:
+    title: "Rates"
+    text: {% include earnrates.html %}
+    section: info
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."

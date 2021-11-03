@@ -11,20 +11,20 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
-      section: services
-    - title: "Portfolio"
-      section: portfolio
-    - title: "About"
-      section: about
-    - title: "Timeline"
+    - title: "Rates/Info"
+      section: info
+    - title: "Compare"
+      section: compare
+    - title: "Updates"
+      section: updates
+    - title: ""
       section: timeline
     - title: "Team"
       section: team
-    - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "Start Earning"
+      url: https://goodtimeshaxor.github.io/HaruSite
+    - title: Get the App
+      section: appdownload
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -36,23 +36,23 @@ en-AU:
 
 # Spanish
 # -------
-es: &DEFAULT_ES
-  nav:
-    - title: "Servicios"
-      section: servicios
-    - title: "Portafolio"
-      section: portafolio
-    - title: "Sobre Nosotros"
-      section: nosotros
-    - title: "Cronología"
-      section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
-      section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+#es: &DEFAULT_ES
+#  nav:
+#    - title: "Servicios"
+#      section: servicios
+#    - title: "Portafolio"
+#      section: portafolio
+#    - title: "Sobre Nosotros"
+#      section: nosotros
+#    - title: "Cronología"
+#      section: cronologia
+#    - title: "Equipo"
+#      section: equipo
+#    - title: "Contáctenos"
+#      section: contacto
+#    - title: "Fuente de la plantilla"
+#      url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
-  <<: *DEFAULT_ES
+  <<: *DEFAULT_EN
 es-CO:
-  <<: *DEFAULT_ES
+  <<: *DEFAULT_EN
