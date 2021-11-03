@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Crypto In,\\<b>awftMore Crypto Out!</b>
+    title: Crypto In,<br><b>More Crypto Out!</b>
     text: Start Earning Today
     button: Get Started
     buttonlink: https://app.haruinvest.com/signup?r=hodl
@@ -166,6 +166,9 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
+
+
+
 # Spanish
 # -------
 es: &DEFAULT_ES
@@ -317,6 +320,6 @@ es: &DEFAULT_ES
       - url: https://instagram.com
         icon: "fab fa-instagram"
 es-ES:
-  <<: *DEFAULT_ES
+  <<: *DEFAULT_EN
 es-CO:
-  <<: *DEFAULT_ES
+  <<: *DEFAULT_EN
