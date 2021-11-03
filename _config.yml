@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://goodtimeshaxor.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/_site" # the subpath of your site, e.g. /blog
+baseurl: "/HaruSite" # the subpath of your site, e.g. /blog
 
 title      : Agency Jekyll Theme Demo
 email      : your-email@example.com #this is also the email contact forms will go to
